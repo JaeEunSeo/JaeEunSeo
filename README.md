@@ -19,16 +19,21 @@ Here are some ideas to get you started:
 <br>
 You can watch 👀 my portfolio <a href="jaeeunseo.github.io/portfolio_github/">over here!</a> 🪹🪺
 <br>
-
+<div>
 <a href="https://summergurl.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
+</div>
+<div>
 <a href="mailto:jjjaeunn@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
+</a>  
+</div>
+<div>
 <a href="https://www.instagram.com/jjjaeunn" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
+</div>
 
 <br><br>
 ---
