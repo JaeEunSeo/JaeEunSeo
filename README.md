@@ -50,10 +50,6 @@ You can watch 👀 my portfolio <a href="jaeeunseo.github.io/portfolio_github/">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=itws009)](https://solved.ac/itws009)
-<br>
-
 <br><br>
 ---
 ### 🚀 Experience
