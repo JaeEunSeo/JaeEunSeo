@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 You can watch 👀 my portfolio <a href="jaeeunseo.github.io/portfolio_github/">over here!</a> 🪹🪺
-<br>
+<br><br>
 <div>
 <a href="https://summergurl.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
