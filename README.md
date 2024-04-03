@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ## Hi, I'm JaeEunSeo 👋🏼👗🏖️🎀
 
 <br>
-https://jaeeunseo.github.io/portfolio_github/
 You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio_github/">over here!</a> 🪹🪺
 <br><br>
 <div>
