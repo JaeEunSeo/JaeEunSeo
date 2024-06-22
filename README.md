@@ -62,7 +62,7 @@ You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio_g
 | 2021.03 ~ in progress | 🏫 Education  | Bachelor of Computer Engineering | Hongik University          |
 | 2023.01 ~ 2024.02     | 👩🏻‍💻 Internship | AI Laboratory Intern                          | AIS Lab                    |
 | 2023.07 ~ in progress | 👩🏻‍💻 Community  | Member & Management                 | BOAZ (빅데이터 연합동아리) |
-| 2024.03 ~ in progress | 👩🏻‍💻 Internship | Data Process & Collection           | KeytalkAI                  |
+| 2024.03 ~ 2024.06     | 👩🏻‍💻 Internship | Data Process & Collection           | KeytalkAI                  |
 
 <br>
 <div align =center>
