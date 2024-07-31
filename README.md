@@ -53,6 +53,7 @@ You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio_g
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 ---
 ### 🚀 Experience
@@ -61,8 +62,9 @@ You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio_g
 | --------------------- | ------------- | ----------------------------------- | -------------------------- |
 | 2021.03 ~ in progress | 🏫 Education  | Bachelor of Computer Engineering | Hongik University          |
 | 2023.01 ~ 2024.02     | 👩🏻‍💻 Internship | AI Laboratory Intern                          | AIS Lab                    |
-| 2023.07 ~ in progress | 👩🏻‍💻 Community  | Member & Management                 | BOAZ (빅데이터 연합동아리) |
+| 2023.07 ~ 2024.07 | 👩🏻‍💻 Community  | Member & Management                 | BOAZ (빅데이터 연합동아리) |
 | 2024.03 ~ 2024.06     | 👩🏻‍💻 Internship | Data Process & Collection           | KeytalkAI                  |
+| 2024.03 ~ 2024.06     | 👩🏻‍💻 Education | AI Tech RecSys(추천시스템 트랙)           | 네이버 커넥트재단 부스트캠프                  |
 
 <br>
 <div align =center>
