@@ -60,7 +60,8 @@ You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio_g
 
 | Date                  | Type          | Contents                            | Organization               |
 | --------------------- | ------------- | ----------------------------------- | -------------------------- |
-| 2021.03 ~ in progress | 🏫 Education  | Bachelor of Computer Engineering | Hongik University          |
+| 2021.03 ~ in progress | 🏫 Bachelor  | Computer Engineering | Hongik University          |
+| 2021.03 ~ in progress | 🏫 Bachelor  | Art History and Theory | Hongik University          |
 | 2023.01 ~ 2024.02     | 👩🏻‍💻 Internship | AI Laboratory Intern                          | AIS Lab                    |
 | 2023.07 ~ 2024.07 | 👩🏻‍💻 Community  | Member & Management                 | BOAZ (빅데이터 연합동아리) |
 | 2024.03 ~ 2024.06     | 👩🏻‍💻 Internship | Data Process & Collection           | KeytalkAI                  |
