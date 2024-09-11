@@ -70,6 +70,10 @@ You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio_g
 <br>
 <div align =center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeEunSeo)](https://github.com/anuraghazra/github-readme-stats)         [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=itws009)](https://solved.ac/itws009)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeEunSeo)](https://github.com/anuraghazra/github-readme-stats) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=itws009)](https://solved.ac/itws009/)
+
+
+
 </div>
 <div>
