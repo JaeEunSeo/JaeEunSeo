@@ -65,7 +65,7 @@ You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio-g
 | 2023.01 ~ 2024.02     | 👩🏻‍💻 Internship | AI Laboratory Intern                          | AIS Lab                    |
 | 2023.07 ~ 2024.07 | 👩🏻‍💻 Community  | Member & Management                 | BOAZ (빅데이터 연합동아리) |
 | 2024.03 ~ 2024.06     | 👩🏻‍💻 Internship | Data Process & Collection           | KeytalkAI                  |
-| 2024.08 ~ in progress    | 👩🏻‍💻 Education | AI Tech RecSys(추천시스템 트랙)           | 네이버 커넥트재단 부스트캠프                  |
+| 2024.08 ~ 2025.02    | 👩🏻‍💻 Education | AI Tech RecSys(추천시스템 트랙)           | 네이버 커넥트재단 부스트캠프                  |
 
 <br>
 <div align =center>
