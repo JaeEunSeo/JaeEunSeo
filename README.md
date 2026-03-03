@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 -->
 <div align = "left">
 
-## Hi, I'm JaeEunSeo 👋🏼👗🏖️🎀
-
-<br>
-You can watch 👀 my portfolio <a href="https://jaeeunseo.github.io/portfolio-github/">over here!</a> 🪹🪺
-<br>
+## Hi, I'm JaeEunSeo 👋🏼
